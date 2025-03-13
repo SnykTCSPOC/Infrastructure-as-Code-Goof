@@ -38,5 +38,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: 'SnykTag'
-          labels: 'SnykLabel'
+          tags: 'dockerpoc194'
+          labels: 'snyk'
